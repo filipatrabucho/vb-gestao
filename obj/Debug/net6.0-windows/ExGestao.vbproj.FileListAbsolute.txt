@@ -1,0 +1,16 @@
+D:\iefp\VisualBasic\ExGestao\bin\Debug\net6.0-windows\ExGestao.exe
+D:\iefp\VisualBasic\ExGestao\bin\Debug\net6.0-windows\ExGestao.deps.json
+D:\iefp\VisualBasic\ExGestao\bin\Debug\net6.0-windows\ExGestao.runtimeconfig.json
+D:\iefp\VisualBasic\ExGestao\bin\Debug\net6.0-windows\ExGestao.dll
+D:\iefp\VisualBasic\ExGestao\bin\Debug\net6.0-windows\ExGestao.pdb
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.Form1.resources
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.vbproj.GenerateResource.cache
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.GeneratedMSBuildEditorConfig.editorconfig
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.AssemblyInfoInputs.cache
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.AssemblyInfo.vb
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.vbproj.CoreCompileInputs.cache
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.dll
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\refint\ExGestao.dll
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.pdb
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ExGestao.genruntimeconfig.cache
+D:\iefp\VisualBasic\ExGestao\obj\Debug\net6.0-windows\ref\ExGestao.dll
